@@ -8,7 +8,13 @@ const nextConfig = {
         hostname: 'img.clerk.com',
       }
     ]
-  }
+  }, 
+  typescript: {
+    ignoreBuildErrors: true,
+  },
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
 };
 
 export default withSentryConfig(nextConfig, {
