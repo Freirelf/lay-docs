@@ -23,7 +23,7 @@ import { DeleteModal } from "../DeleteModal";
 // try to recover gracefully without losing user data.
 
 function Placeholder() {
-  return <div className="editor-placeholder">Enter some rich text...</div>;
+  return <div className="editor-placeholder">Insira algum texto ou conteúdo...</div>;
 }
 
 export function Editor({
