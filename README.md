@@ -20,7 +20,7 @@
 
 ## <a name="introduction">🤖 Introdução</a>
 
-Construído com Next.js para lidar com a interface do usuário, Liveblocks para recursos em tempo real e estilizado com TailwindCSS, LiveDocs é um clone do Google Docs. O objetivo principal é demonstrar as habilidades do desenvolvedor em um ambiente em tempo real que cria um impacto duradouro.
+Construído com Next.js para lidar com a interface do usuário, Liveblocks para recursos em tempo real e estilizado com TailwindCSS, LayDocs é um Docs em tempo real. O objetivo principal é demonstrar as habilidades do desenvolvedor em um ambiente em tempo real que cria um impacto duradouro.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
